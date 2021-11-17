@@ -1,4 +1,4 @@
-## Oii 👋, I'm a Developer, Gamer, and Otaku!!
+## Oiii 👋, I'm a Developer, Gamer, and Otaku!!
 
 - 💡 I bellieve that we have to do things that we like, so... here Im, I discover playing Minecraft that I like to code and to build virtual things with my own hands.
 - 🏫 Studying at 42Lisboa right now, Best and coolest school ever!
