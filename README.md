@@ -38,7 +38,6 @@
   <img align="center" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
   <img align="center" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img align="center" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <img align="right" alt="Picture" height="150px" style="border-radius:50%;" src="https://instagram.flis8-2.fna.fbcdn.net/v/t51.2885-15/e35/247150777_249456180356771_6474100697666164369_n.jpg?_nc_ht=instagram.flis8-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=zneqwcFoehwAX9eMNvx&edm=AP_V10EBAAAA&ccb=7-4&oh=1442b37e6085b10a5f9db1ff5a508675&oe=619E2A9B&_nc_sid=4f375e">
 </div>
 
 <br />
