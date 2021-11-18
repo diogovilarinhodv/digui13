@@ -1,6 +1,6 @@
 ## Oiii 👋, I'm a Developer, Gamer, and Otaku!!
 
-- 💡 I bellieve that we have to do things that we like, so... here Im, I discover playing Minecraft that I like to code and to build virtual things with my own hands.
+- 💡 I bellieve we have to do things that we like, so... here Im, I discover playing Minecraft that I like to code and build virtual things with my own hands.
 - 🏫 Studying at 42Lisboa right now, Best and coolest school ever!
 - 🎮 Im a casual & competitive gamer, I played CSGO, MC, RL, FIFA, GI, etc. In CSGO, Im at the highest rank, a good game to training soft skills.
 - ✌️ I watch anime, anime is what gives me motivation to work hard to achieving my dreams.
