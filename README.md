@@ -43,5 +43,12 @@
 
 <br />
 
+<div> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+
 [instagram]: https://www.instagram.com/diogo.vilarinho.on/
 [linkedin]: https://www.linkedin.com/in/diogo-vilarinho-on/
