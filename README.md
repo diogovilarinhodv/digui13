@@ -2,7 +2,7 @@
 
 - 💡 I bellieve that we have to do things that we like, so... here Im, I discover playing Minecraft that I like to code and to build virtual things with my own hands.
 - 🏫 Studying at 42Lisboa right now, Best and coolest school ever!
-- 🎮 Im a casual & competitive gamer, I played CS:GO, Minecraft, League of Legends, Rocket League, FIFA, Genshin Impact, etc. In CS:GO, Im at the highest rank, a good game to training soft skills.
+- 🎮 Im a casual & competitive gamer, I played CSGO, MC, LoL, RL, FIFA, GI, etc. In CSGO, Im at the highest rank, a good game to training soft skills.
 - ✌️ I watch anime, anime is what gives me motivation to work hard to achieving my dreams.
 - 📖 I’m currently learning React.
 - ⚡ 2022 Goals: Get alot of knowledge and skills at Front-end, Game Dev and PenTesting!
