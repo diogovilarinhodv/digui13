@@ -6,7 +6,7 @@
 - 🎮 Im a casual & competitive gamer. I played CSGO at the highest ranks, a good game to training soft skills.
 - ✌️ I watch anime, is what gives me motivation to work hard to achieving my dreams.
 - 📖 I’m currently learning React.
-- ⚡ 2022 Goals: Get alot of knowledge and skills at Front-end, Game Dev and PenTesting!
+- ⚡ 2022 Goals: Be the best!
 
 <br />
 
