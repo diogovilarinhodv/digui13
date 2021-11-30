@@ -3,7 +3,7 @@
 - 💡 I bellieve we have to do things that we like, so... 
 - 👉 Here Im, I discover playing Minecraft that I like to code and build virtual things with my own hands.
 - 🏫 Studying at 42Lisboa right now, Best and coolest school ever!
-- 🎮 Im a casual & competitive gamer. I played CSGO at the highest ranks, a good game to training soft skills.
+- 🎮 Im a casual & competitive gamer. I played CSGO at the highest ranks.
 - ✌️ I watch anime, is what gives me motivation to work hard to achieving my dreams.
 - 📖 I’m currently learning React.
 - ⚡ 2022 Goals: Be the best!
