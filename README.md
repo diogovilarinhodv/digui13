@@ -3,8 +3,8 @@
 - 💡 I bellieve we have to do things that we like, so... 
 - 👉 Here Im, I discover playing Minecraft that I like to code and build virtual things with my own hands.
 - 🏫 Studying at 42Lisboa right now, best and coolest school ever!
-- 📖 I’m currently learning all I can.
-- ⚡ 2023 Goals: Be the best!
+- 📖 I’m currently learning all I want.
+- ⚡ 2023 Goals: Give the best of me!
 
 <br />
 
