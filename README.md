@@ -2,7 +2,7 @@
 
 - 💡 I bellieve we have to do things that we like, so... 
 - 👉 Here Im, I discover playing Minecraft that I like to code and build virtual things with my own hands.
-- 📖 I’m currently learning.
+- 📖 I’m currently and always learning.
 - ⚡ 2023 Goals: Give my best!
 
 <br />
