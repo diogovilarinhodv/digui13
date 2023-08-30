@@ -2,7 +2,6 @@
 
 - 💡 I bellieve we have to do things that we like, so... 
 - 👉 Here Im, I discover playing Minecraft that I like to code and build virtual things with my own hands.
-- 🏫 Studying at 42Lisboa right now, best and coolest school ever!
 - 📖 I’m currently learning.
 - ⚡ 2023 Goals: Give my best!
 
